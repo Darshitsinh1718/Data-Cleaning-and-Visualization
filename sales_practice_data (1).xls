@@ -1,0 +1,9 @@
+order_id,customer,city,product,quantity,price,order_date
+101,Amit,Delhi,Laptop,1.0,60000,2024-01-05
+102,Riya,Mumbai,Mobile,2.0,20000,2024-01-07
+103,Amit,Delhi,Tablet,1.0,15000,2024-01-10
+104,Sohan,Pune,Laptop,1.0,62000,2024-01-15
+105,Riya,Mumbai,Tablet,3.0,14000,2024-01-20
+106,Neha,Delhi,Mobile,,21000,2024-01-22
+107,Sohan,Pune,Laptop,2.0,61000,2024-01-25
+108,Amit,,Mobile,1.0,20500,2024-01-28
